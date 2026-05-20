@@ -3,6 +3,4 @@ Arch Dotfiles
 
 Anything prefixed with "hypr" is relating to overall hyprland configurations
 
-config.jsonc = waybar
-style.css = waybar
-launch.sh = waybar
+Anything NOT prefixed with "hypr" is waybar configurations
